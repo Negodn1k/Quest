@@ -1,5 +1,8 @@
+import chapters.first.Prologue;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Prologue startGame = new Prologue();
+        startGame.beginning();
     }
 }
