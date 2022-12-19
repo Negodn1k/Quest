@@ -18,7 +18,7 @@ public class Prologue {
             Scanner input = new Scanner(System.in);
             System.out.println("");                             //Начало сюжета
 
-            System.out.println("1. Ержан проснулся \n 2. Ержан упал с кровати \n 3. Ержан умер во сне");
+            System.out.println("1. Ержан проснулся\n2. Ержан упал с кровати\n3. Ержан умер во сне");
             while (firstChoiceCheck) {
                 firstChoice = input.nextInt();
                 switch (firstChoice) {
