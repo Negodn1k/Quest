@@ -1,5 +1,7 @@
 package systems;
 
 public class Randomize {
-    int randomCheck = (int) (Math.random() * 10);
+    public static int randomCheck() {
+        return (int) (Math.random() * 10);
+    }
 }

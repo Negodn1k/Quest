@@ -1,8 +1,8 @@
-import chapters.first.Prologue;
+import chapters.FirstChapter;
+import chapters.SecondChapter;
 
-public class Main {
+public class Main extends SecondChapter {
     public static void main(String[] args) {
-        Prologue startGame = new Prologue();
-        startGame.beginning();
+        SecondChapter.go();
     }
 }

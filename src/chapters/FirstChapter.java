@@ -1,17 +1,18 @@
-package chapters.first;
+package chapters;
 
-import java.io.File;
+import systems.Randomize;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Prologue {
-    int firstChoice;
-    int secondChoice;
-    boolean firstChoiceCheck = true;        //Проверка правильности выбора для зацикливания выбора, при неправильном выборе цикл повторится
-    boolean secondChoiceCheck = true;
+public class FirstChapter extends Randomize {
+    static int firstChoice;
+    static int secondChoice;
+    static boolean firstChoiceCheck = true;        //Проверка правильности выбора для зацикливания выбора, при неправильном выборе цикл повторится
+    static boolean secondChoiceCheck = true;
 
-    public void beginning() {
+    public static void go() {
         try {
             FileWriter writer = new FileWriter("Save.txt");
 
