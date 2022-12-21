@@ -1,29 +1,31 @@
 package systems;
 
+import chapters.FinalChapter;
+import chapters.FirstChapter;
+import chapters.SecondChapter;
+import chapters.ThirdChapter;
+
 import java.util.Scanner;
 
-public class Save {
-    public String keyWord;
+public class Save extends FinalChapter {
+    static String keyWord;
 
-    public void saveChoice() {
+    public static void go(){
         Scanner input = new Scanner(System.in);
         keyWord = input.next();
 
         switch (keyWord) {
             case ("1"):
-
+                FirstChapter.go();
                 break;
             case ("2"):
-
+                SecondChapter.go();
                 break;
             case ("3"):
-
+                ThirdChapter.go();
                 break;
             case ("4"):
-
-                break;
-            case ("5"):
-
+                FinalChapter.go();
                 break;
         }
     }

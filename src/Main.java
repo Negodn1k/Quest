@@ -1,11 +1,7 @@
-import chapters.FirstChapter;
-import chapters.SecondChapter;
-import chapters.ThirdChapter;
+import systems.Save;
 
-public class Main extends ThirdChapter {
+public class Main extends Save {
     public static void main(String[] args) {
-        FirstChapter.go();
-        SecondChapter.go();
-        ThirdChapter.go();
+        Save.go();
     }
 }
