@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a third chapter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/FirstChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FirstChapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" afterDir="false" />
@@ -22,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Final_Chapter" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

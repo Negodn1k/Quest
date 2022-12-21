@@ -4,8 +4,5 @@ import chapters.ThirdChapter;
 
 public class Main extends ThirdChapter {
     public static void main(String[] args) {
-        FirstChapter.go();
-        SecondChapter.go();
-        ThirdChapter.go();
     }
 }

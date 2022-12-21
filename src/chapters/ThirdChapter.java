@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ThirdChapter extends SecondChapter{
+public class ThirdChapter extends SecondChapter {
     static int firstChoice;
     static int secondChoice;
     static boolean firstChoiceCheck = true;        //Проверка правильности выбора для зацикливания выбора, при неправильном выборе цикл повторится
@@ -12,7 +12,7 @@ public class ThirdChapter extends SecondChapter{
 
     public static void go() {
         try {
-            FileWriter writer = new  FileWriter("Third chapter Save.txt");
+            FileWriter writer = new FileWriter("Third chapter Save.txt");
 
             Scanner input = new Scanner(System.in);
             System.out.println("");
