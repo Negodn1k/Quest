@@ -14,7 +14,7 @@ public class FirstChapter extends Randomize {
 
     public static void go() {
         try {
-            FileWriter writer = new FileWriter("Save.txt");
+            FileWriter writer = new FileWriter("First chapter saveSave.txt");
 
             Scanner input = new Scanner(System.in);
             System.out.println("");                             //Начало сюжета
@@ -78,10 +78,9 @@ public class FirstChapter extends Randomize {
                         }
                         break;
                     case (3):
-                        System.out.println("3");                // Развитие сюжета после первой развилки(третий выбор)
-                        firstChoiceCheck = false;
-                        writer.write("Первый выбор:");
-                        writer.close();
+                        System.out.println("Вы мертвы");                // Развитие сюжета после первой развилки(третий выбор)
+                        firstChoiceCheck = true;
+                        writer.write("Первый выбор: ");
                         break;
                     default:
                         System.out.println("Такой выбор не возможен! Повторите попытку");
