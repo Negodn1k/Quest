@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a final chapter">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systems/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems/Save.java" afterDir="false" />
+    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Finally add a save system">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/FinalChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FinalChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/SecondChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/SecondChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systems/Randomize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems/Randomize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671612519155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finally add a save system">
+      <created>1671613147566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671613147566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +129,7 @@
     <MESSAGE value="Do a logic in Prologue without story" />
     <MESSAGE value="Add a third chapter" />
     <MESSAGE value="Add a final chapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a final chapter" />
+    <MESSAGE value="Finally add a save system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally add a save system" />
   </component>
 </project>

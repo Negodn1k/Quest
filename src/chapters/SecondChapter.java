@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SecondChapter extends FirstChapter {
     static int answer;
-    static int number = randomCheck();
+    static int number = getRandom();
     public static void go() {
         Scanner input = new Scanner(System.in);
         switch (number) {

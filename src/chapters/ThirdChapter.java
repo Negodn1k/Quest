@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ThirdChapter extends SecondChapter{
     static int firstChoice;
     static int secondChoice;
+    static boolean endingItem;
     static boolean firstChoiceCheck = true;        //Проверка правильности выбора для зацикливания выбора, при неправильном выборе цикл повторится
     static boolean secondChoiceCheck = true;
 
@@ -37,6 +38,7 @@ public class ThirdChapter extends SecondChapter{
                                 case (2):
                                     System.out.println("2");        // Развитие сюжета после второй развилки(второй выбор)
                                     secondChoiceCheck = false;
+                                    endingItem = true;
                                     writer.write("Второй выбор");
                                     writer.close();
                                     break;
@@ -64,6 +66,7 @@ public class ThirdChapter extends SecondChapter{
                                 case (2):
                                     System.out.println("2");        // Развитие сюжета после второй развилки(Второй выбор)
                                     secondChoiceCheck = false;
+                                    endingItem = true;
                                     writer.write("Второй выбор");
                                     writer.close();
                                     break;
