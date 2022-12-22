@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class SecondChapter extends FirstChapter {
     static int answer;
     static int number = getRandom();
+
     public static void go() {
         Scanner input = new Scanner(System.in);
         switch (number) {
@@ -42,6 +43,7 @@ public class SecondChapter extends FirstChapter {
                     System.out.println("Верно");
                 } else {
                     System.out.println("Вы мертвы");
+                    break;
                 }
 
                 System.out.println("Вторая загадка");
@@ -50,6 +52,7 @@ public class SecondChapter extends FirstChapter {
                     System.out.println("Верно");
                 } else {
                     System.out.println("Вы мертвы");
+                    break;
                 }
 
                 System.out.println("Третья загадка");
@@ -58,9 +61,9 @@ public class SecondChapter extends FirstChapter {
                     System.out.println("Верно");
                 } else {
                     System.out.println("Вы мертвы");
+                    break;
                 }
                 break;
-
         }
     }
 }

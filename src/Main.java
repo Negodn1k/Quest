@@ -1,7 +1,7 @@
-import systems.Save;
+import systems.ChapterSelect;
 
-public class Main extends Save {
+public class Main extends ChapterSelect {
     public static void main(String[] args) {
-        Save.go();
+        ChapterSelect.go();
     }
 }

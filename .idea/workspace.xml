@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a third chapter">
+    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Merge all branch in master">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/FirstChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FirstChapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/SecondChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/SecondChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systems/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems/ChapterSelect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IzYSWckJJKFatZI8oA8KbK1c7w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -83,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671611538118</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1671626638828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671626638828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge all branch in master">
+      <created>1671626842019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671626842019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,7 +114,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Polish_and_story" />
                       </list>
                     </value>
                   </entry>
@@ -112,6 +129,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Do a logic in Prologue without story" />
     <MESSAGE value="Add a third chapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a third chapter" />
+    <MESSAGE value="." />
+    <MESSAGE value="Merge all branch in master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge all branch in master" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Quest$Main.ic" NAME="Main Coverage Results" MODIFIED="1671697274488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
