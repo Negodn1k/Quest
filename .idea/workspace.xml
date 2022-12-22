@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Polish third and final chapters">
+    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a story in first chapter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/FirstChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FirstChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/SecondChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/SecondChapter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671699162689</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add a story in first chapter">
+      <created>1671710832059</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671710832059</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +160,8 @@
     <MESSAGE value="Rename Save in ChapterSelect and add print for select chapter" />
     <MESSAGE value="Polish first and second chapters" />
     <MESSAGE value="Polish third and final chapters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polish third and final chapters" />
+    <MESSAGE value="Add a story in first chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a story in first chapter" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Quest$Main.ic" NAME="Main Coverage Results" MODIFIED="1671697274488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
