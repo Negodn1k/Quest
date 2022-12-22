@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Rename Save in ChapterSelect and add print for select chapter">
-      <change beforePath="$PROJECT_DIR$/src/chapters/FirstChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FirstChapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/SecondChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/SecondChapter.java" afterDir="false" />
+    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Polish first and second chapters">
+      <change beforePath="$PROJECT_DIR$/src/chapters/FinalChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FinalChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systems/ChapterSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems/ChapterSelect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671697491854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Polish first and second chapters">
+      <created>1671698852648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671698852648</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,7 +144,8 @@
     <MESSAGE value="." />
     <MESSAGE value="Merge all branch in master" />
     <MESSAGE value="Rename Save in ChapterSelect and add print for select chapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename Save in ChapterSelect and add print for select chapter" />
+    <MESSAGE value="Polish first and second chapters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polish first and second chapters" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Quest$Main.ic" NAME="Main Coverage Results" MODIFIED="1671697274488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

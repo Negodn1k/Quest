@@ -12,7 +12,7 @@ public class ChapterSelect extends FinalChapter {
 
     public static void go(){
         Scanner input = new Scanner(System.in);
-        System.out.println("Выберите главу: \n1. Первая глава \n2. Вторая глава \n3. Третья глава \n4. Четвёртая глава");
+        System.out.println("Выберите главу: \n1. Первая глава \n2. Вторая глава \n3. Третья глава");
         selectNum = input.next();
 
         switch (selectNum) {
@@ -29,9 +29,6 @@ public class ChapterSelect extends FinalChapter {
                 break;
             case ("3"):
                 ThirdChapter.go();
-                FinalChapter.go();
-                break;
-            case ("4"):
                 FinalChapter.go();
                 break;
         }
