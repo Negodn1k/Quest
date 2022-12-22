@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a story in second chapter">
+    <list default="true" id="839e79f2-f68c-46da-8b79-e23ef42772ab" name="Changes" comment="Add a third chapter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/FinalChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/FinalChapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/ThirdChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systems/ChapterSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems/ChapterSelect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
