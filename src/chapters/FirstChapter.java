@@ -79,7 +79,6 @@ public class FirstChapter extends Randomize {
                         break;
                     case (3):
                         System.out.println("Вы мертвы");                // Развитие сюжета после первой развилки(третий выбор)
-                        firstChoiceCheck = true;
                         writer.write("Первый выбор: ");
                         break;
                     default:
